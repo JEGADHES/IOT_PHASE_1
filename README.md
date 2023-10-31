@@ -5,6 +5,10 @@
 
     This project aims to create an environmental monitoring system using IoT devices that collect data and transmit it to a platform. The data is then displayed and analyzed using a Python-based environmental monitoring platform.
 
+![Smart Environmental Monitoring](![Smart Environmental Monitoring](![Environmental Monitoring](https://github.com/JEGADHES/IOT_PROJECT_IBM/assets/146053671/3419e6bf-5dbe-4aa2-b04b-af08a3848f75)
+)
+
+
 ## Table of Contents
 
 -Getting Started
